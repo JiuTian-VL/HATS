@@ -1,0 +1,10 @@
+openai
+python-dotenv
+Pillow
+uiautomator2==3.2.8 #3.2.9的输入法的自动清空可能有问题
+opencv-python-headless
+opencv-contrib-python-headless
+ImageHash
+zstd
+json-repair
+agentlab # after install this, follow the instruction of https://github.com/ServiceNow/AgentLab to install webarena's things
