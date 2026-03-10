@@ -28,7 +28,7 @@
 [![Paper](https://img.shields.io/badge/Paper-arXiv-deepgreen)](https://arxiv.org/abs/xxx)
 [![Data](https://img.shields.io/badge/Data-HuggingFace-yellow)](https://huggingface.co/datasets/wvvvvvw/HATS-Dataset)
 [![Model](https://img.shields.io/badge/Model-HuggingFace-yellow)](https://huggingface.co/wvvvvvw/HATS-Model)
-[![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://xxx)
+[![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://xieincz.github.io/HATS.github.io)
 
 </div>
 
