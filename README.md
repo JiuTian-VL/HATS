@@ -6,24 +6,24 @@
 </h2>
 
 <p>
-<a href="https://scholar.google.com/citations?user=9Vc--XsAAAAJ">Rui Shao</a><sup>1,4,&dagger;</sup>,
+<a href="https://scholar.google.com/citations?user=9Vc--XsAAAAJ">Rui Shao</a><sup>1,3,&dagger;</sup>,
 <a>Ruize Gao</a><sup>2,&dagger;</sup>,
 <a href="https://xieincz.github.io">Bin Xie</a><sup>1</sup>,
 <a>Yixing Li</a><sup>1</sup>,
-<a href="https://jnhujnhu.github.io/">Kaiwen Zhou</a><sup>3</sup>,
-<a>Shuai Wang</a><sup>3</sup>,
-<a>Weili Guan</a><sup>1,4</sup>,
-<a href="https://scholar.google.com/citations?user=Mpg0w3cAAAAJ">Gongwei Chen</a><sup>1</sup>
+<a href="https://jnhujnhu.github.io/">Kaiwen Zhou</a><sup>4</sup>,
+<a>Shuai Wang</a><sup>4</sup>,
+<a>Weili Guan</a><sup>1,3</sup>,
+<a href="https://scholar.google.com/citations?user=Mpg0w3cAAAAJ">Gongwei Chen</a><sup>1,*</sup>
 </p>
 
 <p>
 <sup>1</sup> Harbin Institute of Technology, Shenzhen&nbsp;&nbsp;&nbsp;
 <sup>2</sup> National University of Singapore, CNRS@CREATE<br>
-<sup>3</sup> Huawei Noah’s Ark Lab&nbsp;&nbsp;&nbsp;
-<sup>4</sup> Shenzhen Loop Area Institute
+<sup>3</sup> Shenzhen Loop Area Institute&nbsp;&nbsp;&nbsp;
+<sup>4</sup> Huawei Noah’s Ark Lab
 </p>
 
-<p><sup>&dagger;</sup> Equal contribution</p>
+<p><sup>&dagger;</sup> Equal contribution&nbsp;&nbsp;&nbsp;<sup>*</sup> Corresponding author</p>
 
 [![Paper](https://img.shields.io/badge/Paper-arXiv-deepgreen)](https://arxiv.org/abs/xxx)
 [![Data](https://img.shields.io/badge/Data-HuggingFace-yellow)](https://huggingface.co/datasets/wvvvvvw/HATS-Dataset)
