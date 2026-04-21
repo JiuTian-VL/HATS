@@ -25,7 +25,7 @@
 
 <p><sup>&dagger;</sup> Equal contribution&nbsp;&nbsp;&nbsp;<sup>*</sup> Corresponding author</p>
 
-[![Paper](https://img.shields.io/badge/Paper-arXiv-deepgreen)](https://arxiv.org/abs/xxx)
+[![Paper](https://img.shields.io/badge/Paper-arXiv-deepgreen)](https://arxiv.org/abs/2603.12138)
 [![Data](https://img.shields.io/badge/Data-HuggingFace-yellow)](https://huggingface.co/datasets/wvvvvvw/HATS-Dataset)
 [![Model](https://img.shields.io/badge/Model-HuggingFace-yellow)](https://huggingface.co/wvvvvvw/HATS-Model)
 [![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://xieincz.github.io/HATS.github.io)
